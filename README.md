@@ -7,7 +7,16 @@ In this project (Part of Udacity Data Science Nanodegree), I build a model to cl
  - Built a Web app using HTML, CSS, JavaScript, and Python Flask.
  
 ## Dataset
-For This Project, I will be working with a data set provided by [Figure Eight](https://www.figure-eight.com/) containing real messages that were sent during disaster events. (Can see the dataset in the repository
+For This Project, I will be working with a data set provided by [Figure Eight](https://www.figure-eight.com/) containing real messages that were sent during disaster events. (Can see the dataset in the repository)
+
+
+![Disasters_gif](https://github.com/ishankcode/Disaster_Pipeline/assets/66678343/8e477f58-09fd-4a10-90f2-70711cfef703)
+
+
+
+![app_1](https://github.com/ishankcode/Disaster_Pipeline/assets/66678343/fc986549-fba7-431a-a2bf-adfb16ce76af)
+![app_2](https://github.com/ishankcode/Disaster_Pipeline/assets/66678343/51da44d9-91e9-49f6-acb5-8673fcda5261)
+
 
 ## File Description
 ~~~~~~~
