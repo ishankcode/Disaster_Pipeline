@@ -47,13 +47,6 @@ You can use this Model
           |-- README
 ~~~~~~~
 
-## Required Libraries
-Machine Learning Libraries: Pandas, NumPy, Scikit-Learn
-Natural Language Process Libraries: NLTK
-SQLite Database Libraries: SQLalchemy
-Web App libraries: Flask
-Visualization libraries: Plotly, Matplotlib
-
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
